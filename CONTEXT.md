@@ -23,7 +23,7 @@
 - no open PRs; issues mostly dependency bumps and version-choice requests
 
 ## Gap ledger (dedupe — READ FIRST, never re-pick)
-- `2026-09-03` self-found trivial cleanup (README broken contributors link, README "within in" duplicate word, README JSON output example stale field names, SECURITY.md email link stray period) — outcome: pr-opened — lesson: docs-only, verified against live CLI output; no upstream PR touches these strings
+- `2026-09-03` self-found trivial cleanup (README broken contributors link, README "within in" duplicate word, README JSON output example stale field names, SECURITY.md email link stray period) — outcome: pr-opened (https://github.com/olitreadwell/hpt-validator-cli/pull/1) — lesson: docs-only, verified against live CLI output; no upstream PR touches these strings
 
 ## Mined gaps (discovered, not yet attempted)
 - none
