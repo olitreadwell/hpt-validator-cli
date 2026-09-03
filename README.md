@@ -97,7 +97,8 @@ Example JSON output:
 ```json
 {
   "file": "/path/to/sample.csv",
-  "version": "1.10.0",
+  "validatorVersion": "1.10.8",
+  "dataDictionaryVersion": "3.0.0",
   "timestamp": "2025-01-11T17:00:00.000Z",
   "valid": false,
   "errorCount": 2,
@@ -140,11 +141,11 @@ Disclosure Policies, see [SECURITY.md](SECURITY.md).
 
 ## Authors and Maintainers
 
-A full list of contributors can be found on [https://github.cms.gov/CMSGov/hpt-validator-cli/graphs/contributors](https://github.cms.gov/CMSGov/hpt-validator-cli/graphs/contributors).
+A full list of contributors can be found on [https://github.com/CMSgov/hpt-validator-cli/graphs/contributors](https://github.com/CMSgov/hpt-validator-cli/graphs/contributors).
 
 ## Public domain
 
-This project is licensed within in the public domain within the United States,
+This project is licensed within the public domain within the United States,
 and copyright and related rights in the work worldwide are waived through the
 [CC0 1.0 Universal public domain
 dedication](https://creativecommons.org/publicdomain/zero/1.0/).
