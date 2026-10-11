@@ -27,6 +27,7 @@
 
 ## Gap ledger (dedupe — READ FIRST, never re-pick)
 - `2026-09-03` self-found trivial cleanup (README broken contributors link, README "within in" duplicate word, README JSON output example stale field names, SECURITY.md email link stray period) — outcome: pr-opened (https://github.com/olitreadwell/hpt-validator-cli/pull/1) — lesson: docs-only, verified against live CLI output; no upstream PR touches these strings
+- `2026-10-11` self-found trivial cleanup (CONTRIBUTING.md dead `code.gov` link, CONTRIBUTING.md retired `guides.github.com` link, README.md "amount of errors" wording) — outcome: pr-opened (https://github.com/olitreadwell/hpt-validator-cli/pull/2) — lesson: docs-only, 3 fixes in 2 files, zero line overlap with PR #1; fork Actions still register 0 workflow runs (fork artifact), lint + prettier verified locally
 
 ## Mined gaps (discovered, not yet attempted)
 - `2026-10-11` CONTRIBUTING.md L4 `https://code.gov/` 301s into `digital.gov/resources/...-open-source-software/` which 404s (verified with a real request); replacement `https://digital.gov/topics/open-source` returns 200 — status: attempted (this run)
