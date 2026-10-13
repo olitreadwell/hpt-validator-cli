@@ -1,7 +1,7 @@
 # How to Contribute
 
 We're so thankful you're considering contributing to an [open source project of
-the U.S. government](https://code.gov/)! If you're unsure about anything, just
+the U.S. government](https://digital.gov/topics/open-source)! If you're unsure about anything, just
 ask -- or submit the issue or pull request anyway. The worst that can happen is
 you'll be politely asked to change something. We appreciate all friendly
 contributions.
@@ -21,7 +21,7 @@ npm install
 
 ### Workflow and Branching
 
-We follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow/)
+We follow the [GitHub Flow Workflow](https://docs.github.com/get-started/using-github/github-flow)
 
 1.  Fork the project
 1.  Check out the `main` branch
